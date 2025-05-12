@@ -53,7 +53,7 @@ The goal is to support policy decision-making and assess the effectiveness of go
 ###  Files in This Repository
 
 * `SQL_Assg_Farmers_Insurance_Questions_Starter.sql` – Set of SQL queries used for data exploration and insight generation.
-* `Farmers_Insurance_Executive_Summary.docx` – Written summary with key findings, patterns, and policy recommendations.
+* `Executive_Summary_Report.pdf` – Written summary with key findings, patterns, and policy recommendations.
 
 ---
 
